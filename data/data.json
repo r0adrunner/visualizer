@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "55576265aaccc756c83c9fe7",
+    "income": 15624.6466,
+    "age": 27,
+    "eyeColor": "green",
+    "name": "Lara Talley",
+    "years_of_education": 2
+  },
+  {
+    "_id": "55576265f8cb598a70a41c4c",
+    "income": 43474.4588,
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Copeland Madden",
+    "years_of_education": 8
+  },
+  {
+    "_id": "555762654309d949887618b7",
+    "income": 39460.4579,
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Lilia Jennings",
+    "years_of_education": 4
+  },
+  {
+    "_id": "555762655d209339ba9c7083",
+    "income": 56367.3772,
+    "age": 20,
+    "eyeColor": "blue",
+    "name": "Olga Browning",
+    "years_of_education": 11
+  },
+  {
+    "_id": "555762651022e6dfcce7283c",
+    "income": 15792.9248,
+    "age": 21,
+    "eyeColor": "green",
+    "name": "Olive Alexander",
+    "years_of_education": 3
+  },
+  {
+    "_id": "555762659b0b6636c7c9f1e7",
+    "income": 62364.271,
+    "age": 30,
+    "eyeColor": "blue",
+    "name": "Allyson Small",
+    "years_of_education": 12
+  },
+  {
+    "_id": "55576265e29c67ccc1b25571",
+    "income": 79620.7362,
+    "age": 34,
+    "eyeColor": "brown",
+    "name": "Evangelina Calderon",
+    "years_of_education": 19
+  }
+]
